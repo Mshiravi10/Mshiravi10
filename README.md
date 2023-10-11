@@ -1,5 +1,4 @@
 
----
 
 <h1 align="center">Hello World! 👋 I'm MohammadAmin Shiravi</h1>
 <h3 align="center">A Dedicated .NET Developer at Mohaymen & A Tech Enthusiast</h3>
